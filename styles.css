@@ -1,0 +1,17 @@
+#header {
+    font-size:xx-large;
+}
+#body{
+    background-image: url(images/mountainbackground.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 1000px;
+    background-repeat: no-repeat;
+  
+}
+#messagePara{
+    font-size:xx-large;
+}
+#footerCopy{
+    color: white !important;
+}

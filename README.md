@@ -1,1 +1,2 @@
 # CityStateLookup
+This project focuses on the use of cascading dropdowns while including Javascript, HTML, and CSS elements. Cacading dropdowns is a commonly used web component that displays a dropdown select depending on the value selected in previous selects. This project was initialized through a Github repository and then cloned through terminal, continuing on 1 branch.
